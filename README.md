@@ -1,5 +1,5 @@
 
-# SourceFiles_etl
+# Multi-Source ETL Pipeline (Files to Snowflake)
 
 Simple ETL (Extract, Transform, Load) project written in Python. This pipeline extracts and processes data from source files, applies transformation rules, and loads it into a destination. 
 
